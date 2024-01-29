@@ -1,7 +1,7 @@
 The proposed e-commerce application, named "**ElectroMart**" is a comprehensive platform designed for users to explore, select, and purchase electronic products. The system incorporates user-friendly interfaces for both customers and administrators.<br>
 
 <h3>**Technology Used**</h3>
-**1. Front-End Development:**<br>
+<b>1. Front-End Development:<b></b><br>
 HTML<br>
 CSS<br>
 Javascript<br>
