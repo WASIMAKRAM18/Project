@@ -1,21 +1,21 @@
 The proposed e-commerce application, named "**ElectroMart**" is a comprehensive platform designed for users to explore, select, and purchase electronic products. The system incorporates user-friendly interfaces for both customers and administrators.<br>
 
-<h3>**Technology Used**</h3>
+<h3><b>Technology Used</b></h3>
 <b>1. Front-End Development:</b><br>
 HTML<br>
 CSS<br>
 Javascript<br>
 BootStrap<br>
 
-**2. Back-End Development:**<br>
+<b>2. Back-End Development:</b><br>
 Java [JDK 8+]<br>
 JDBC<br>
 JSP<br>
 
-**3. Database:**<br>
+<b>3. Database:</b><br>
 MySql [WorkBench]<br>
 
-<h3>**User Functionality:**</h3><br>
+<h3><b></b>User Functionality:</b></h3><br>
 **1.	User Registration and Login:**<br>
 •	Users can register and log in securely to the ElectroMart website.<br>
 •	Upon successful registration, users receive a confirmation email.<br>
