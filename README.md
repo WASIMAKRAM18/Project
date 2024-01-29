@@ -1,6 +1,6 @@
 The proposed e-commerce application, named "**ElectroMart**" is a comprehensive platform designed for users to explore, select, and purchase electronic products. The system incorporates user-friendly interfaces for both customers and administrators.<br>
 
-<h3>**Technology Used**</h3><br>
+<h3>**Technology Used**</h3>
 **1. Front-End Development:**<br>
 HTML<br>
 CSS<br>
@@ -15,7 +15,7 @@ JSP<br>
 **3. Database:**<br>
 MySql [WorkBench]<br>
 
-**User Functionality:**<br>
+<h3>**User Functionality:**</h3><br>
 **1.	User Registration and Login:**<br>
 •	Users can register and log in securely to the ElectroMart website.<br>
 •	Upon successful registration, users receive a confirmation email.<br>
@@ -35,7 +35,7 @@ MySql [WorkBench]<br>
 •	Users receive emails for successful registration, order placement, and shipment confirmation.<br>
 •	In case of out-of-stock items, users are notified when the product becomes available again.<br>
 
-**Admin Functionality:**<br>
+<h3>**Admin Functionality:**</h3><br>
 **1.	Product Management:**<br>
 •	Admins can add, update, or remove products from the store.<br>
 •	Inventory management is facilitated.<br>
@@ -45,7 +45,7 @@ MySql [WorkBench]<br>
 •	Admins can send emails to users for order-related updates.<br>
 Note: The payment page is created solely for demonstration purposes and lacks full integration with any payment gateway. Credit card details are accepted for demo orders.<br>
 
-**Highlights:**<br>
+<h3>**Highlights:**</h3><br>
 •	Enhanced user experience with comprehensive email notifications.<br>
 •	Technologies used span both front-end and back-end development.<br>
 •	Bootstrap ensures a responsive and visually appealing design.<br>
